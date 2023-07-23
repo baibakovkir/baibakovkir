@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <div> <b>Hi there 👋</b></div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5jNDc3YmYxMDFoYzQ1eXBiMHF1aXkzYnRqNTVsY2tleXo1aHNlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="200"/>
@@ -27,11 +25,3 @@
   <div><img src="http://github-readme-streak-stats.herokuapp.com?user=kiryxa09" alt="моя контрибуция"/></div>
   <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiryxa09&layout=compact&theme=vision-friendly-dark" alt="мои самые используемые языки"/></div>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiryxa09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**kiryxa09/kiryxa09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
