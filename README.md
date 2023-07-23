@@ -22,8 +22,10 @@
   <div>
     <i>- 📫 How to reach me: <a href="https://t.me/kirikland09"><img src="https://img.shields.io/badge/Telegram-blue" alt="Телеграмм кнопка"/></a></i>
   </div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kiryxa09)](https://git.io/streak-stats)
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=kiryxa09"/>
+  <hr/>
+  <b>My stats	&#128293;</b>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kiryxa09" alt="моя контрибуция"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiryxa09&layout=compact&theme=vision-friendly-dark" alt="мои самые используемые языки"
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiryxa09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
