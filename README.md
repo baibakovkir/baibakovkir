@@ -17,14 +17,14 @@
     <i>- 👯 I’m looking to collaborate on a big project</i>
   </div>
   <div>
-    <i>- 💬 Ask me about everything about web development</i>
+    <i>- 💬 Ask me about everything in web development</i>
   </div>
   <div>
     <i>- 📫 How to reach me: <a href="https://t.me/kirikland09"><img src="https://img.shields.io/badge/Telegram-blue" alt="Телеграмм кнопка"/></a></i>
   </div>
-  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kiryxa09)](https://git.io/streak-stats)
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiryxa09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kiryxa09/kiryxa09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
