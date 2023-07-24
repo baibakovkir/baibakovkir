@@ -40,8 +40,8 @@
   <div><b>My contacts</b></div>
   <p></p>
   <div>
-    <a href="https://t.me/kirikland09"><img src="https://img.shields.io/badge/Telegram-blue" alt="Телеграмм кнопка" width="75px" height="5px"/></a>
-    <a href="https://wa.me/+79936289322"><img src="https://img.shields.io/badge/WhatsApp-green" alt="ВотсАпп кнопка" width="75px" height="5px"/></a>
-    <a href="mailto:baibakovkir@yandex.ru"><img src="https://img.shields.io/badge/Mail-red" alt="Почта кнопка" width="75px" height="5px"/></a>
+    <a href="https://t.me/kirikland09"><img src="https://img.shields.io/badge/Telegram-blue" alt="Телеграмм кнопка" width="75px" height="15px"/></a>
+    <a href="https://wa.me/+79936289322"><img src="https://img.shields.io/badge/WhatsApp-green" alt="ВотсАпп кнопка" width="75px" height="15px"/></a>
+    <a href="mailto:baibakovkir@yandex.ru"><img src="https://img.shields.io/badge/Mail-red" alt="Почта кнопка" width="75px" height="15px"/></a>
   </div>
 </div>
