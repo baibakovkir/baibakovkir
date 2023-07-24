@@ -41,7 +41,7 @@
   <p></p>
   <div>
     <a href="https://t.me/kirikland09"><img src="https://img.shields.io/badge/Telegram-blue" alt="Телеграмм кнопка"/></a>
-    <a href="https://wa.me/89936289322"><img src="https://img.shields.io/badge/WhatsApp-green" alt="ВотсАпп кнопка"/></a>
+    <a href="https://wa.me/+79936289322"><img src="https://img.shields.io/badge/WhatsApp-green" alt="ВотсАпп кнопка"/></a>
     <a href="mailto:baibakovkir@yandex.ru"><img src="https://img.shields.io/badge/Mail-red" alt="Почта кнопка"/></a>
   </div>
 </div>
