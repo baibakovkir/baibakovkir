@@ -19,12 +19,6 @@
     <i>- 💬 Ask me about everything in web development</i>
   </div>
   <hr/>
-  <div><b>My stats	&#128293;</b></div>
-  <p></p>
-  <div><img src="http://github-readme-streak-stats.herokuapp.com?user=kiryxa09" alt="моя контрибуция"/></div>
-  <p></p>
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiryxa09&layout=compact&theme=vision-friendly-dark" alt="мои самые используемые языки"/></div>
-  <hr/>
   <div><b>Technologies</b></div>
   <p></p>
   <div>
@@ -44,4 +38,10 @@
     <a href="https://wa.me/+79936289322"><img src="https://img.shields.io/badge/WhatsApp-green" alt="ВотсАпп кнопка"/></a>
     <a href="mailto:baibakovkir@yandex.ru"><img src="https://img.shields.io/badge/Mail-red" alt="Почта кнопка"/></a>
   </div>
+  <hr/>
+  <div><b>My stats	&#128293;</b></div>
+  <p></p>
+  <div><img src="http://github-readme-streak-stats.herokuapp.com?user=kiryxa09" alt="моя контрибуция"/></div>
+  <p></p>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiryxa09&layout=compact&theme=vision-friendly-dark" alt="мои самые используемые языки"/></div>
 </div>
