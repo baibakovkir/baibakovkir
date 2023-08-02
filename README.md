@@ -10,7 +10,7 @@
     <i>- 🔭 I’m currently working on Backend of Mesto (study project)</i>
   </div>
   <div>
-    <i>- 🌱 I’m currently learning MongoDB</i>
+    <i>- 🌱 I’m currently learning GitHUB actions autotest</i>
   </div>
   <div>
     <i>- 👯 I’m looking to collaborate on a big project</i>
@@ -29,6 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" **alt="express" width="40" height="40"/>
 </div>
   <hr/>
   <div><b>My contacts</b></div>
