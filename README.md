@@ -10,7 +10,7 @@
     <i>- 🔭 I’m currently working on Backend of Mesto (study project)</i>
   </div>
   <div>
-    <i>- 🌱 I’m currently learning GitHUB actions autotest</i>
+    <i>- 🌱 I’m currently learning RegExp</i>
   </div>
   <div>
     <i>- 👯 I’m looking to collaborate on a big project</i>
