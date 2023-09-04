@@ -10,7 +10,7 @@
     <i>- 🔭 I’m currently working on Backend of Mesto (study project)</i>
   </div>
   <div>
-    <i>- 🌱 I’m currently learning supertest</i>
+    <i>- 🌱 I’m currently learning SCSS</i>
   </div>
   <div>
     <i>- 👯 I’m looking to collaborate on a big project</i>
