@@ -7,7 +7,7 @@
   <div><img src="https://komarev.com/ghpvc/?username=kiryxa09&style=flat-square&color=blue" alt=""/></div>
   <hr/>
   <div>
-    <i>- 🔭 I’m currently working on Backend of Mesto (study project)</i>
+    <i>- 🔭 I’m currently working on Movies Explorer (diploma project)</i>
   </div>
   <div>
     <i>- 🌱 I’m currently learning TypeScript</i>
