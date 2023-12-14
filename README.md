@@ -7,7 +7,7 @@
   <div><img src="https://komarev.com/ghpvc/?username=kiryxa09&style=flat-square&color=blue" alt=""/></div>
   <hr/>
   <div>
-    <i>- 🔭 I’m currently working on  Design Collab</i>
+    <i>- 🔭 I’m currently working on  Design Collab (check organizations)</i>
   </div>
   <div>
     <i>- 🌱 I’m currently learning PHP</i>
