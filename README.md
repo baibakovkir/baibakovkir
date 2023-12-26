@@ -1,19 +1,8 @@
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  
-  /* Apply the animation to all images */
-  img {
-    animation: fadeIn 2s;
-  }
-</style>
 <div align="left">
   <div> <b>Hello World! 👋</b></div>
   <p></p>
   <a href="https://movies.kiryxa09.nomoredomainsrocks.ru/#about-me">
-    <img src="https://github.com/kiryxa09/images/blob/main/резюме.png" width="100%"/>
+    <img src="https://github.com/kiryxa09/images/blob/main/резюме.png" width="100%" style="animation: fadeIn 2s;"/>
   </a>
   <hr/>
   <p>Hello, my name is Kirill. I am a frontend developer. My goal is to create user-friendly and interesting internet services. Currently, I am looking for a company where I can realize my ambitions. It can be a small company that recently emerged or a major player in the market. It is important to me that there is a warm atmosphere in the team and that everyone is driven by the same goal - to create a new cutting-edge product.</p>
