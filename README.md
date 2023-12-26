@@ -1,4 +1,5 @@
 
+  [![Page Preview](https://github.com/kiryxa09/images/blob/main/резюме.png)](https://movies.kiryxa09.nomoredomainsrocks.ru/#about-me)
 <div align="left">
   <div> <b>Hello World! 👋</b></div>
   <p></p>
@@ -6,9 +7,6 @@
   <hr/>
   <p>Hello, my name is Kirill. I am a frontend developer. My goal is to create user-friendly and interesting internet services. Currently, I am looking for a company where I can realize my ambitions. It can be a small company that recently emerged or a major player in the market. It is important to me that there is a warm atmosphere in the team and that everyone is driven by the same goal - to create a new cutting-edge product.</p>
   <div><img src="https://komarev.com/ghpvc/?username=kiryxa09&style=flat-square&color=blue" alt=""/></div>
-</div>
-  [![Page Preview](https://github.com/kiryxa09/images/blob/main/резюме.png)](https://movies.kiryxa09.nomoredomainsrocks.ru/#about-me)
-<div align="left">
   <hr/>
   <div>
     <i>- 🔭 I’m currently working on  Design Collab (check organizations)</i>
