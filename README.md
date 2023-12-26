@@ -1,9 +1,20 @@
-
-  [![Page Preview](https://github.com/kiryxa09/images/blob/main/резюме.png)](https://movies.kiryxa09.nomoredomainsrocks.ru/#about-me)
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  /* Apply the animation to all images */
+  img {
+    animation: fadeIn 2s;
+  }
+</style>
 <div align="left">
   <div> <b>Hello World! 👋</b></div>
   <p></p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG5jNDc3YmYxMDFoYzQ1eXBiMHF1aXkzYnRqNTVsY2tleXo1aHNlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="200"/>
+  <a href="https://movies.kiryxa09.nomoredomainsrocks.ru/#about-me">
+    <img src="https://github.com/kiryxa09/images/blob/main/резюме.png" width="100%"/>
+  </a>
   <hr/>
   <p>Hello, my name is Kirill. I am a frontend developer. My goal is to create user-friendly and interesting internet services. Currently, I am looking for a company where I can realize my ambitions. It can be a small company that recently emerged or a major player in the market. It is important to me that there is a warm atmosphere in the team and that everyone is driven by the same goal - to create a new cutting-edge product.</p>
   <div><img src="https://komarev.com/ghpvc/?username=kiryxa09&style=flat-square&color=blue" alt=""/></div>
