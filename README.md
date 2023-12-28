@@ -1,4 +1,11 @@
-<div align="left">
+<style>
+  .page {
+    opacity: 0.5;
+    transition: opacity 0.5s ease-in-out; /* Apply transition effect on opacity with ease-in-out timing */
+    /* Add any other custom styles you want */
+}
+</style>
+<div class="page" align="left">
   <div> <b>Hello World! 👋</b></div>
   <p></p>
   <a href="https://movies.kiryxa09.nomoredomainsrocks.ru/#about-me">
