@@ -9,7 +9,7 @@
     <i>- 🔭 I’m currently working on  Design Collab (check organizations)</i>
   </div>
   <div>
-    <i>- 🌱 I’m currently learning PHP</i>
+    <i>- 🌱 I’m currently learning Django</i>
   </div>
   <div>
     <i>- 👯 I’m looking to collaborate on a big project</i>
