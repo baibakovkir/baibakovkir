@@ -49,7 +49,7 @@
   <hr/>
   <div><b>My stats	&#128293;</b></div>
   <p></p>
-  <div><img src="http://github-readme-streak-stats.herokuapp.com?user=kiryxa09" alt="моя контрибуция"/></div>
+  <div><img src="http://github-readme-streak-stats.herokuapp.com?user=baibakovkir" alt="моя контрибуция"/></div>
   <p></p>
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiryxa09&layout=compact&theme=vision-friendly-dark" alt="мои самые используемые языки"/></div>
+  <div>![baibakovkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=baibakovkir&show_icons=true&theme=radical)</div>
 </div>
