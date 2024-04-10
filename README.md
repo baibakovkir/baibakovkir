@@ -51,5 +51,6 @@
   <p></p>
   <div><img src="http://github-readme-streak-stats.herokuapp.com?user=baibakovkir" alt="моя контрибуция"/></div>
   <p></p>
-  <div>![baibakovkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=baibakovkir&show_icons=true&theme=radical)</div>
+  <div></div>
 </div>
+![baibakovkir's GitHub stats](https://github-readme-stats.vercel.app/api?username=baibakovkir&show_icons=true&theme=radical)
