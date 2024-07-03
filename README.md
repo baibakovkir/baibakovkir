@@ -6,10 +6,10 @@
   <div><img src="https://komarev.com/ghpvc/?username=kiryxa09&style=flat-square&color=blue" alt=""/></div>
   <hr/>
   <div>
-    <i>- 🔭 I’m currently working on  Design Collab (check organizations)</i>
+    <i>- 🔭 I’m currently working on <a href="https://github.com/baibakovkir/english-svelte/tree/main/my-svelte-app">English learning portal</a></i>
   </div>
   <div>
-    <i>- 🌱 I’m currently learning Django</i>
+    <i>- 🌱 I’m currently learning SvelteKit</i>
   </div>
   <div>
     <i>- 👯 I’m looking to collaborate on a big project</i>
