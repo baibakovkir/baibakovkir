@@ -9,7 +9,7 @@
     <i>- 🔭 I’m currently working on <a href="https://github.com/baibakovkir/english-svelte/tree/main/my-svelte-app">English learning portal</a></i>
   </div>
   <div>
-    <i>- 🌱 I’m currently learning SvelteKit</i>
+    <i>- 🌱 I’m currently learning Jenkins</i>
   </div>
   <div>
     <i>- 👯 I’m looking to collaborate on a big project</i>
