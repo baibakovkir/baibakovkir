@@ -31,6 +31,8 @@
   <p>Backend</p>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NodeJS" alt="NestJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="NestJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" **alt="express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>&nbsp;
@@ -47,9 +49,4 @@
     <a href="mailto:baibakovkir@yandex.ru"><img src="https://img.shields.io/badge/Mail-red" alt="Почта кнопка"/></a>
   </div>
   <hr/>
-  <div><b>My stats	&#128293;</b></div>
-  <p></p>
-  <div><img src="http://github-readme-streak-stats.herokuapp.com?user=baibakovkir" alt="моя контрибуция"/></div>
-  <p></p>
-  <div><img src="https://github-readme-stats.vercel.app/api?username=baibakovkir&show_icons=true&theme=radical" alt="мои самые используемые языки"/></div>
 </div>
