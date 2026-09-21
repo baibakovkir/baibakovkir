@@ -57,4 +57,4 @@ Some of my production work lives in private company repositories. These public p
 
 Open to full-stack and backend-focused engineering opportunities.
 
-[Email](mailto:baibakovkir@yandex.ru) · [GitHub](https://github.com/baibakovkir)
+[Email](mailto:baibakovkir@yandex.ru) · [WebSite](https://baibakovkir.space)
