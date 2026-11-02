@@ -45,13 +45,13 @@ def hero(mobile):
 def box(x,y,w,label,detail=None):
  return rect(x,y,w,48 if detail is None else 64)+text(x+w/2,y+26,label,'label',**{'text-anchor':'middle'})+(text(x+w/2,y+49,detail,'small',**{'text-anchor':'middle'}) if detail else '')
 def highlights(mobile):
- w,h=(360,1550) if mobile else (960,890)
+ w,h=(360,1550) if mobile else (960,1024)
  b=text(24 if mobile else 36,38,'ENGINEERING IN PRACTICE','kicker')
  b+=text(24 if mobile else 36,77,'Decisions that hold up.','label' if mobile else 'title')
  panels=[('01 / SHARED MODEL','One model. Two views.',['Metric domain data drives both','the 2D plan and the 3D scene.','Geometry stays consistent.']),('02 / REALTIME RULES','The server decides.',['Validate input and commit once.','Clients receive shared state;','retries do not duplicate results.']),('03 / VERSIONED CONTENT','Edit without disruption.',['The library can move to v2.','An assigned lesson or homework','keeps its original v1 snapshot.']),('04 / RELEASE RECOVERY','Ship with a way back.',['Checks, backup, release, health.','If the app fails its health check,','restore the previous release.'])]
  for i,(tag,title,lines) in enumerate(panels):
-  x,y=(16,100+i*358) if mobile else (24,112+i*190)
-  pw,ph=(328,340) if mobile else (912,174)
+  x,y=(16,100+i*358) if mobile else (24,112+i*226)
+  pw,ph=(328,340) if mobile else (912,210)
   b+=rect(x,y,pw,ph,'panel')+text(x+18,y+27,tag,'kicker')
   tx,ty=(x+18,y+211) if mobile else (x+474,y+65)
   b+=text(tx,ty,title,'label')
