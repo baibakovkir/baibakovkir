@@ -9,13 +9,17 @@ I’m a full-stack engineer working with **Go and TypeScript**. I build web prod
 
 ## Selected public projects
 
-| Project | What it does | Engineering focus |
-| --- | --- | --- |
-| [Countryhouse](https://github.com/baibakovkir/countryhouse-go-next) | Land planning with terrain, structures, utilities, costs and schedules. | Go, PostgreSQL, Next.js, SVG and React Three Fiber; one metric model for 2D and 3D. |
-| [Tutor platform](https://github.com/baibakovkir/tutor-platform) | Scheduling, payment tracking, homework and shared learning games, built on an open-source foundation. | Next.js, PostgreSQL, SSE; an editable task library with immutable lesson and homework snapshots. |
-| [NINJAS X](https://github.com/baibakovkir/phaser-express-socket) | A multiplayer MOBA prototype with desktop and touch controls. | React, Phaser, Socket.IO, Protobuf, Redis and PostgreSQL; server simulation, prediction and interpolation. |
+**[Countryhouse](https://github.com/baibakovkir/countryhouse-go-next)** — land planning with terrain, structures, utilities, costs and schedules. One metric model drives the 2D plan and 3D scene.  
+Go · PostgreSQL · Next.js · SVG · React Three Fiber
 
-| [Portfolio](https://github.com/baibakovkir/baibakovkir-space) | Personal website presenting selected work and technical experience. | Next.js, React and Three.js; responsive interfaces and interactive presentation. |
+**[Tutor platform](https://github.com/baibakovkir/tutor-platform)** — scheduling, payment tracking, homework and shared learning games, built on an open-source foundation. An editable task library preserves snapshots for assigned work.  
+Next.js · PostgreSQL · SSE · Vitest · Playwright
+
+**[NINJAS X](https://github.com/baibakovkir/phaser-express-socket)** — a multiplayer MOBA prototype with desktop and touch controls. Server simulation, client prediction and interpolation keep movement responsive.  
+React · Phaser · Socket.IO · Protobuf · Redis · PostgreSQL
+
+**[Portfolio](https://github.com/baibakovkir/baibakovkir-space)** — a personal website presenting selected work and technical experience through responsive interfaces and interactive visuals.  
+Next.js · React · Three.js
 
 ## Engineering decisions
 
@@ -32,13 +36,11 @@ I’m a full-stack engineer working with **Go and TypeScript**. I build web prod
 
 ## Technologies I use
 
-| Area | Tools |
-| --- | --- |
-| Backend | Go, Node.js, TypeScript, NestJS, REST, OpenAPI |
-| Interfaces | React, Next.js, Vue 3, accessible components, responsive layouts |
-| Interactive systems | SVG, React Three Fiber, Phaser, WebSockets, Socket.IO, SSE |
-| Data | PostgreSQL, Redis, SQL migrations, PGlite, IndexedDB |
-| Delivery & quality | Docker, GitHub Actions, Linux, Vitest, Jest, Cypress, Playwright |
+- **Backend:** Go, Node.js, TypeScript, NestJS, REST, OpenAPI
+- **Interfaces:** React, Next.js, Vue 3, accessible components, responsive layouts
+- **Interactive systems:** SVG, React Three Fiber, Phaser, WebSockets, Socket.IO, SSE
+- **Data:** PostgreSQL, Redis, SQL migrations, PGlite, IndexedDB
+- **Delivery & quality:** Docker, GitHub Actions, Linux, Vitest, Jest, Cypress, Playwright
 
 I also work on non-public systems. Their names, repositories, clients and implementation details are omitted here; the engineering principles above describe how I approach the work.
 
